@@ -1,13 +1,13 @@
-# Machine Translation Paper List (AAAI=2020)
+# Machine Translation Paper List (AAAI-2020)
 
-### Long papers (28)
+### Long papers (21)
 
 | Paper                                                        | Authors                                                      | Domain                                    | Link                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | -------------------------------- |
 | Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation           | *Chenze Shao, Jinchao Zhang , Yang Feng , Fandong Meng and Jie Zhou*                 | Training, Non-Autoregressive NMT                    | https://arxiv.org/abs/1911.09320 |
-| Neural Machine Translation with Byte-Level Subwords    | *Changhan Wang , Kyunghyun Cho and Jiatao Gu*              | Data Processing              | https://arxiv.org/abs/1909.03341 |
-| Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation | *Junliang Guo, Xu Tan, Linli Xu, Tao Qin, Enhong Chen, Tie-Yan Liu*                  | Curriculum Learning, Non-Autoregressive
-NMT                      | https://arxiv.org/abs/1911.08717 |
+| Neural Machine Translation with Byte-Level Subwords           | *Changhan Wang , Kyunghyun Cho and Jiatao Gu*              | Data Processing              | https://arxiv.org/abs/1909.03341 |
+| Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation | *Junliang Guo, Xu Tan, Linli Xu, Tao Qin, Enhong Chen, Tie-Yan Liu*                  | Curriculum Learning, Non-Autoregressive NMT  
+| https://arxiv.org/abs/1911.08717 |
 | Unsupervised Neural Dialect Translation with Commonality and Diversity Modeling | *Yu Wan, Baosong Yang, Derek F. Wong, Lidia S. Chao, Haihua Du, Ben C.H. Ao* | Dialect Translation               | https://arxiv.org/abs/1912.05134 |
 | Transductive Ensemble Learning for Neural Machine Translation | *Yiren Wang, Lijun Wu, Yingce Xia, Tao Qin,  ChengXiang Zhai,  Tie-Yan Liu*                 | Neural Network Architecture                         | https://www.msra.cn/wp-content/uploads/2020/01/Transductive-Ensemble-Learning-for-Neural-Machine-Translation.pdf |
 | IntroVNMT: An Introspective Model for Variational Neural Machine Translation | *Xin Sheng, Linli Xu, Junliang Guo, Jingchang Liu, Ruoyu Zhao, Yinlong Xu*       | Neural Network Architecture | - |
