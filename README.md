@@ -25,5 +25,5 @@
 | Acquiring Knowledge from Pre-trained Model to Neural Machine Translation        | *Rongxiang Weng , Heng Yu , Shujian Huang1 , Shanbo Cheng , Weihua Luo* | Training using pre-trained model                          | https://arxiv.org/abs/1912.01774                                |
 | Visual Agreement Regularized Training for Multi-Modal Machine Translation | *Pengcheng Yang, Boxing Chen, Pei Zhang, Xu Sun* | Multi-modal machine translation              | https://arxiv.org/abs/1912.12014 |
 | Balancing Quality and Human Involvement: an Effective Approach to Interactive Neural Machine Translation | *tianxiang zhao, Lemao Liu, Guoping Huang, Zhaopeng Tu, Huayang Li, Yingling Liu, Liu GuiQuan, Shuming Shi* | Neural Network Architecture               | - |
-
+| GRET: Global Representation Enhanced Transformer | *Rongxiang Weng, Haoran Wei, Shujian Huang, Heng Yu, Lidong Bing, Weihua Luo, Jiajun Chen* | Neural Network Architecture              | https://arxiv.org/abs/2002.10101 |
 
